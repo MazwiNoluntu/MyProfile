@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 20px;
+}
+
+.myprofileparagraphy{
+    display: flex;
+    flex-direction: row-reverse;
+       justify-content: space-around;
+       font-size:larger;
+       background-color: darkorchid;
+       border-style: solid;
+      border-color: red;
+    }
+
+.myprofileparagraphy img{
+    width: 100px;
+    height: 300px;
+
+}
+
+.olonly{
+    border: 30px;
+    background-color: aqua;
+}
